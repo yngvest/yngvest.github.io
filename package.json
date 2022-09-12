@@ -1,0 +1,22 @@
+{
+  "name": "yngvest.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "parcel build src/index.html --dist-dir=."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yngvest/yngvest.github.io.git"
+  },
+  "author": "Igor Shtukarev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yngvest/yngvest.github.io/issues"
+  },
+  "homepage": "https://github.com/yngvest/yngvest.github.io#readme"
+}
